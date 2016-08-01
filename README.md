@@ -66,9 +66,16 @@
 * 교재 (다음 중 하나 혹은 새로운 책 중에 하나를 주교재로 정하고, 필요에 따라 각종 문서를 제공할 예정)
   - [Jumping into C++](https://www.amazon.com/Jumping-into-C-Alex-Allain/dp/0988927802)
   - [Programming -- Principles and Practice Using C++](http://www.stroustrup.com/programming.html)
-* 참고 도서
+* 디자인 패턴, 객체지향 관련
   - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
   - [객체지향의 사실과 오해](http://wikibook.co.kr/object-orientation/)
-* 관련 자료
-  - python을 배우고 C를 배우는 사람들에게 유용한 링크
-    - [C for python programmers](http://www.toves.org/books/cpy/)
+* python 프로그래머들을 위한 C/C++ 소개
+  - [C for python programmers](http://www.toves.org/books/cpy/)
+  - [transition.pdf](http://dehn.slu.edu/courses/spring08/180/transition.pdf) (24 pages)
+* C/C++ Tutorials
+  - [C 프로그래밍 입문/C 문법 - 위키책](https://ko.wikibooks.org/wiki/C_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%9E%85%EB%AC%B8/C_%EB%AC%B8%EB%B2%95)
+  - [C Programming - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C_Programming)
+  - [C++ Programming - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
+  - [Learn C++](http://www.learncpp.com/)
+  - [C++ Language - C++ Tutorials](http://www.cplusplus.com/doc/tutorial/)
+  - [C++ Tutorial - Learn C++ - Cprogramming.com](http://www.cprogramming.com/tutorial/c++-tutorial.html)
