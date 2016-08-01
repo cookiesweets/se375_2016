@@ -60,3 +60,15 @@
 | 14주차 | 디자인 패턴 (con’t)                                  |
 | 15주차 | 리뷰                                                 |
 | 16주차 | 기말고사                                             |
+
+## 교재 및 참고자료
+
+* 교재 (다음 중 하나 혹은 새로운 책 중에 하나를 주교재로 정하고, 필요에 따라 각종 문서를 제공할 예정)
+  - [Jumping into C++](https://www.amazon.com/Jumping-into-C-Alex-Allain/dp/0988927802)
+  - [Programming -- Principles and Practice Using C++](http://www.stroustrup.com/programming.html)
+* 참고 도서
+  - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+  - [객체지향의 사실과 오해](http://wikibook.co.kr/object-orientation/)
+* 관련 자료
+  - python을 배우고 C를 배우는 사람들에게 유용한 링크
+    - [C for python programmers](http://www.toves.org/books/cpy/)
